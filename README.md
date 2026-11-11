@@ -27,7 +27,7 @@ Whether you're a drone enthusiast, UAV operator, or technology enthusiast, Fligh
 
 **Get FlightSafe on Google Play:**
 
-[**Download on Google Play →**](YOUR_GOOGLE_PLAY_LINK)
+[**Download on Google Play →**]([https://play.google.com/store/apps/details?id=com.orbitforgestudios.flightsafe])
 
 Package Name: `com.orbitforgestudios.flightsafe`
 
@@ -35,7 +35,7 @@ Package Name: `com.orbitforgestudios.flightsafe`
 
 FlightSafe is designed with privacy in mind. Refer to our privacy policy for details about permissions, location access, and data handling.
 
-[Read our Privacy Policy](YOUR_PRIVACY_POLICY_LINK)
+[Read our Privacy Policy](YOUR_PRIVACY_POLICY_)
 
 ## 🏢 Developer
 
