@@ -51,7 +51,9 @@ FlightSafe is designed with privacy in mind. Refer to our privacy policy for det
 **OrbitForge Studios**
 
 Independent Android app and game development studio.
+**For More Info visit the flight safe Website:**
 
+https://orbitforgestudios.github.io/flightsafe-gnss-gps-detector/
 ## ⭐ Support the Project
 
 If you find FlightSafe useful:
