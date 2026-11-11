@@ -39,17 +39,13 @@ FlightSafe is designed with privacy in mind. Refer to our privacy policy for det
 
 ## 📱 FlightSafe App Screenshots
 
-### GNSS Monitoring Dashboard
-![FlightSafe Dashboard](assets/SS_32.png)
+<p align="center">
+  <img src="assets/SS_32.png" width="22%" alt="FlightSafe Screenshot 32"/>
+  <img src="assets/SS_33.png" width="22%" alt="FlightSafe Screenshot 33"/>
+  <img src="assets/SS_34.png" width="22%" alt="FlightSafe Screenshot 34"/>
+  <img src="assets/SS_37.png" width="22%" alt="FlightSafe Screenshot 37"/>
+</p>
 
-### Satellite Monitoring
-![Satellite Monitoring](assets/SS_33.png)
-
-### GNSS Integrity Assessment
-![GNSS Integrity](assets/SS_34.png)
-
-### Flight Readiness
-![Flight Readiness](assets/SS_35.png)
 ## 🏢 Developer
 
 **OrbitForge Studios**
