@@ -40,10 +40,10 @@ FlightSafe is designed with privacy in mind. Refer to our privacy policy for det
 ## 📱 FlightSafe App Screenshots
 
 <p align="center">
-  <img src="assets/SS_32.png" width="22%" alt="FlightSafe Screenshot 32"/>
-  <img src="assets/SS_33.png" width="22%" alt="FlightSafe Screenshot 33"/>
-  <img src="assets/SS_34.png" width="22%" alt="FlightSafe Screenshot 34"/>
-  <img src="assets/SS_37.png" width="22%" alt="FlightSafe Screenshot 37"/>
+  <img src="assets/SS_32.png" width="22%" alt="FlightSafe Home Screen"/>
+  <img src="assets/SS_33.png" width="22%" alt="FlightSafe GPS Data"/>
+  <img src="assets/SS_34.png" width="22%" alt="FlightSafe History"/>
+  <img src="assets/SS_36.png" width="22%" alt="FlightSafe Settings"/>
 </p>
 
 ## 🏢 Developer
