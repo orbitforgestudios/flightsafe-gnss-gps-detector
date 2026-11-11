@@ -35,7 +35,7 @@ Package Name: `com.orbitforgestudios.flightsafe`
 
 FlightSafe is designed with privacy in mind. Refer to our privacy policy for details about permissions, location access, and data handling.
 
-[Read our Privacy Policy](YOUR_PRIVACY_POLICY_)
+[Read our Privacy Policy](https://orbitforgestudios.github.io/flightsafe-privacy-policy)
 
 ## 🏢 Developer
 
